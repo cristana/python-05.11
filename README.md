@@ -1,6 +1,6 @@
 >>> a=("hello,word")
 >>> a="hello word"
->>> a="hello, woed"
+>>> a="hello, word"
 >>> print("a[1]=",a[1])
 a[1]= e
 >>> print("a[4]=",a[4])
